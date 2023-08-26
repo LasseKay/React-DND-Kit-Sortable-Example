@@ -1,2 +1,2 @@
-# React-DND-Kit-Sortable-Example
+# react-multiple-containers-dnd-example
 Created with CodeSandbox
